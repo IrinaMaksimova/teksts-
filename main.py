@@ -1,5 +1,2 @@
-teksts=input("Ievadi tekstu!")
-skatitajs=0 
-for burts in teksts:
-  print(burts)
-  
+x=input("Ievadi tekstu!")
+print(x.count(' ')+1)
